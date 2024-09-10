@@ -36,14 +36,13 @@ Get data from now playing movies and api in browse
 usepopular custome hook
 
 GPT Search feature
-gpt search bar
-made our app multilingiual
+GPT search bar
+Made our app multilingiual
 
-interate gptAPI( get OpenAI Key)
+
 
 
 #Features
-
 -Login/SignUp
     SignIn/SignUp
     -Redirect to Browse page
