@@ -39,9 +39,6 @@ GPT Search feature
 GPT search bar
 Made our app multilingiual
 
-
-
-
 #Features
 -Login/SignUp
     SignIn/SignUp
